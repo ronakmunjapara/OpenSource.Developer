@@ -2,7 +2,7 @@
 A curated, searchable, and filterable directory of 100+ free developer tools, APIs, and services — crafted with a focus on performance, accessibility, and clean design.
 
 ## 🚀 Live Demo  
-👉 [Visit the site](https://ronakmunjapara.github.io/OpenSource.Developer/)  
+👉 [Visit the site](https://open-source-developer.vercel.app/)  
 
 ## ✨ Features
 
@@ -41,11 +41,7 @@ A curated, searchable, and filterable directory of 100+ free developer tools, AP
 ## 🤝 Contributing
 
 We welcome PRs and new tools!  
-📄 [Contribution Guidelines](CONTRIBUTING.md) 
-
-## 📄 License
-
-[MIT](LICENSE)
+![image](https://github.com/user-attachments/assets/08083ab7-013c-41ec-9f8b-33a3c4a2f800)
 
 ---
 
