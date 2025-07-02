@@ -64,21 +64,21 @@ export const ContributionSection: React.FC<ContributionSectionProps> = ({ onNavi
             <Users size={24} />
             <span>500+</span>
           </div>
-          <p className="text-sm text-gray-600 dark:text-gray-300">Contributors</p>
+          <p className="text-sm text-gray-600 dark:text-gray-300">Contributors target</p>
         </div>
         <div className="text-center">
           <div className="flex items-center justify-center space-x-1 text-2xl font-bold text-green-600 dark:text-green-400">
             <Star size={24} />
             <span>65k+</span>
           </div>
-          <p className="text-sm text-gray-600 dark:text-gray-300">GitHub Stars</p>
+          <p className="text-sm text-gray-600 dark:text-gray-300">GitHub Stars target</p>
         </div>
         <div className="text-center">
           <div className="flex items-center justify-center space-x-1 text-2xl font-bold text-purple-600 dark:text-purple-400">
             <Heart size={24} />
             <span>1M+</span>
           </div>
-          <p className="text-sm text-gray-600 dark:text-gray-300">Monthly Users</p>
+          <p className="text-sm text-gray-600 dark:text-gray-300">Monthly Users target</p>
         </div>
       </div>
     </div>
