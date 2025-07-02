@@ -9,7 +9,7 @@ import { ContributePage } from './components/ContributePage';
 import { Footer } from './components/Footer';
 import { services, categories } from './data/services';
 import { FilterOptions } from './types';
-
+import { Analytics } from "@vercel/analytics/next"
 function App() {
   const [searchTerm, setSearchTerm] = useState('');
   const [filters, setFilters] = useState<FilterOptions>({
@@ -31,7 +31,7 @@ function App() {
 
       // Category filter
       const matchesCategory = filters.category === 'all' || service.category === filters.category;
-
+<Analytics/>
       // Tags filter
       const matchesTags = filters.tags.length === 0 || 
         filters.tags.some(tag => service.tags.includes(tag));
