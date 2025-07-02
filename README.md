@@ -41,7 +41,7 @@ A curated, searchable, and filterable directory of 100+ free developer tools, AP
 ## 🤝 Contributing
 
 We welcome PRs and new tools!  
-📄 [Contribution Guidelines](CONTRIBUTING.md) coming soon.
+📄 [Contribution Guidelines](CONTRIBUTING.md) 
 
 ## 📄 License
 
