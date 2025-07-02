@@ -9,7 +9,7 @@ import { ContributePage } from './components/ContributePage';
 import { Footer } from './components/Footer';
 import { services, categories } from './data/services';
 import { FilterOptions } from './types';
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react";
 function App() {
   const [searchTerm, setSearchTerm] = useState('');
   const [filters, setFilters] = useState<FilterOptions>({
