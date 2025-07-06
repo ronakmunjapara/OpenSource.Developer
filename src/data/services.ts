@@ -395,6 +395,18 @@ export const services: Service[] = [
     "verified": true
   },
   {
+  "id": "slugify-url-smart",
+  "name": "Slugify URL Smart",
+  "description": "A zero-dependency, smart URL slug generator with transliteration, emoji support (🔥 → fire), and SEO-friendly output.",
+  "url": "https://github.com/ronakmunjapara/slugify-url-smart",
+  "category": "utilities",
+  "tags": ["slug", "url", "seo", "transliteration", "emoji", "npm", "typescript"],
+  "limitations": "Limited emoji list by default—requires expansion for full coverage",
+  "documentationUrl": "https://magnificent-pasca-b72a63.netlify.app/ ",
+  "lastUpdated": "2025-07-06",
+  "verified": true
+} ,
+  {
     "id": "coding-interview-university",
     "name": "Coding Interview University",
     "description": "Complete CS study plan to prepare for software engineering interviews.",
