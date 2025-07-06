@@ -399,7 +399,7 @@ export const services: Service[] = [
   "name": "Slugify URL Smart",
   "description": "A zero-dependency, smart URL slug generator with transliteration, emoji support (🔥 → fire), and SEO-friendly output.",
   "url": "https://github.com/ronakmunjapara/slugify-url-smart",
-  "category": "utilities",
+  "category": "development-tools",
   "tags": ["slug", "url", "seo", "transliteration", "emoji", "npm", "typescript"],
   "limitations": "Limited emoji list by default—requires expansion for full coverage",
   "documentationUrl": "https://magnificent-pasca-b72a63.netlify.app/ ",
