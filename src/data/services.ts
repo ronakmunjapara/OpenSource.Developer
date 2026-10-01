@@ -238,6 +238,18 @@ export const services: Service[] = [
     verified: true
   },
   {
+    id: 'easypanel',
+    name: 'Easypanel',
+    description: 'Proprietary, self-hosted deployment panel for Docker apps, Docker Compose projects and databases on your own Linux server.',
+    url: 'https://easypanel.io/',
+    category: 'hosting',
+    tags: ['self-hosted', 'docker', 'deployment', 'databases'],
+    limitations: 'Permanent free software plan: up to 3 projects, unlimited services and deployments, and basic monitoring. Server hosting costs are separate; additional features require paid plans.',
+    documentationUrl: 'https://easypanel.io/docs',
+    lastUpdated: '2026-10-01',
+    verified: false
+  },
+  {
     id: 'uptime-robot',
     name: 'UptimeRobot',
     description: 'Website uptime monitoring service.',
