@@ -1117,6 +1117,18 @@ export const services: Service[] = [
     documentationUrl: 'https://github.com/binhnguyennus/awesome-scalability#readme',
     lastUpdated: '2024-01-14',
     verified: true
+  },
+  {
+    id: 'orkas',
+    name: 'Orkas',
+    description: 'MIT-licensed desktop AI workspace for turning project files into code, technical documentation, and reports through coordinated agents.',
+    url: 'https://orkas.ai/?source=gh_osdev',
+    category: 'development-tools',
+    tags: ['ai-agents', 'desktop', 'open-source', 'development', 'documentation'],
+    limitations: 'Core app is free. Model usage and optional hosted services may cost extra; desktop installation and model configuration are required.',
+    documentationUrl: 'https://github.com/Orkas-AI/Orkas#readme',
+    lastUpdated: '2026-10-14',
+    verified: false
   }
 ];
 
