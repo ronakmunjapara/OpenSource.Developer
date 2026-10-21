@@ -1107,6 +1107,18 @@ export const services: Service[] = [
     verified: true
   },
   {
+    id: 'reverse-engineering-anything-guide',
+    name: 'Reverse Engineering Anything — Independent REA Guide',
+    description: 'Independent REA learning guide for installation, coding-client setup, CLI reference, troubleshooting, and official case-study links.',
+    url: 'https://reverseengineeringanything.com/',
+    category: 'learning-resources',
+    tags: ['reverse engineering', 'rea', 'documentation', 'cli', 'coding clients'],
+    limitations: 'Free reading; independent of upstream REA. Not a hosted analysis service. Command examples are not runtime verification. Optional analytics and advertising consent.',
+    documentationUrl: 'https://reverseengineeringanything.com/guides/installation/',
+    lastUpdated: '2026-10-21',
+    verified: false
+  },
+  {
     id: 'awesome-scalability',
     name: 'Awesome Scalability',
     description: 'The patterns of scalable, reliable, and performant large-scale systems.',
