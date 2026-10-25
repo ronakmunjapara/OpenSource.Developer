@@ -62,7 +62,7 @@ export const categories: Category[] = [
     name: 'Development Tools',
     description: 'Open source tools, frameworks, and resources for developers',
     icon: 'Code',
-    count: 19
+    count: 18
   },
   {
     id: 'learning-resources',
@@ -81,6 +81,18 @@ export const categories: Category[] = [
 ];
 
 export const services: Service[] = [
+  {
+    id: 'agent-qa',
+    name: 'agent-qa',
+    description: 'Free local CLI and MCP toolkit for natural-language web, Android and iOS QA, with persistent memory and validated self-improvement.',
+    url: 'https://vostride.com',
+    category: 'development-tools',
+    tags: ['testing', 'ai', 'mcp', 'automation'],
+    limitations: 'Requires Node.js 24+ and configured model access; provider costs are separate. FSL-1.1-ALv2 license.',
+    documentationUrl: 'https://vostride.com/docs/agent-qa',
+    lastUpdated: '2026-10-26',
+    verified: false
+  },
   {
     id: 'google-analytics',
     name: 'Google Analytics',
